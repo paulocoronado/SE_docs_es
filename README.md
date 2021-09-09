@@ -1,2 +1,1 @@
-# SE_docs_es
-# SE_docs_es
+# Spatial Ecology en Espanol
